@@ -25,6 +25,7 @@ module.exports = {
       boxShadow: {
         primary: "0px 0px 4px 0px #00000040",
         secondary: "0px 0px 12px rgba(0, 0, 0, 0.1)",
+        form: "rgba(0, 0, 0, 0.25) 0px 5px 20px",
       },
       backgroundImage: {
         "circuit-board-gray": "url('../images/bg_circuit_board_1.png')",
