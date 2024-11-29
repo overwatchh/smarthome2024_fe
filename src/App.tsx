@@ -249,7 +249,7 @@ function App() {
       {/* Footer */}
       <div className="py-3">
         <p className="text-center text-base font-normal text-gray-500">
-          101Digital &copy; 2024{" "}
+          Nhà thông minh &copy; 2024{" "}
         </p>
       </div>
     </div>
